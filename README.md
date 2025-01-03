@@ -1,8 +1,8 @@
-Ubuntu & other Debian based distros Only
+macOS Only
 
 Install with:
 ```sh
-curl -sSL https://raw.githubusercontent.com/RekuNote/nv/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/acoustic-nerd/nv-mac/main/install.sh | sudo bash
 ```
 
 Default repo is `https://www.reximemo.net/repo`
